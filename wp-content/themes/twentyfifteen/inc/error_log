@@ -1,0 +1,3 @@
+[26-Oct-2018 01:21:37 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/novadrivingschoo/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 45
+[26-Oct-2018 06:06:41 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/novadrivingschoo/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 103
+[26-Oct-2018 10:16:06 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/novadrivingschoo/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 180

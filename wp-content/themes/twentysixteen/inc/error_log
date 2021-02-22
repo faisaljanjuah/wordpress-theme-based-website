@@ -1,0 +1,2 @@
+[30-Oct-2018 17:54:41 America/New_York] PHP Fatal error:  Call to undefined function is_admin() in /home/novadrivingschoo/public_html/wp-content/themes/twentysixteen/inc/template-tags.php on line 178
+[03-Nov-2018 17:30:45 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/novadrivingschoo/public_html/wp-content/themes/twentysixteen/inc/customizer.php on line 69
